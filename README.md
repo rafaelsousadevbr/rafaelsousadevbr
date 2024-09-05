@@ -23,7 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100rem" />
 
 ----
-
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsousadevbr&theme=dark&show_icons=true)
 
 
 <!-- Cabeçalhos 
